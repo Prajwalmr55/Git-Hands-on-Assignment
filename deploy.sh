@@ -1,1 +1,1 @@
-making changes in dev  branch [D[D[D[D[D[D[[[[C[C[C[C[C[C[C[C[C[C
+made some changes in deploy.sh file
